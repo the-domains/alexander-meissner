@@ -1,0 +1,28 @@
+name: Alexander Meissner
+favicon: null
+layout_spectrum: 0.07356641604565084
+typography_spectrum: 0.2750159737188369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2628154356498271
+  lightness: 0.2598978513851762
+  saturation: 0.0011387465056031942
+  rhythmicContrast: 0.7054419938940555
+purpose: []
